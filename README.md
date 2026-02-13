@@ -16,7 +16,7 @@ How to Run the Project
 My learnings - Create multi-page websites using only HTML, Link pages together properly, Structure content using semantic tags, Organize files in a clean folder system, Write basic project documentation.
 
 Future Improvements 
--Add CSS for styling
--Improve layout and responsiveness
--Add images for recipes
--Add JavaScript for interactivity
+1.Add CSS for styling
+2.Improve layout and responsiveness
+3.Add images for recipes
+4.Add JavaScript for interactivity
