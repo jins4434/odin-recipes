@@ -6,7 +6,7 @@ Overview
 
 Technologies Used - HTML5 (No CSS or JavaScript used in this version.)
 
-Features - Homepage with links to all recipes, Individual pages for each recipe, Navigation menu for easy movement between pages, Clear layout using semantic HTML elements
+Features - Homepage with links to all recipes, Individual pages for each recipe, Navigation menu for easy movement between pages.
 
 How to Run the Project
 1.Download or clone the repository
@@ -20,4 +20,3 @@ Future Improvements
 -Improve layout and responsiveness
 -Add images for recipes
 -Add JavaScript for interactivity
--Improve accessibility
